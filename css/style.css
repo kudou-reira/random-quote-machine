@@ -1,0 +1,49 @@
+
+body{
+  background-color: #A9A9A9;
+  font-family: "Raleway";
+}
+
+h1{
+  color: white;
+  font-weight: 600;
+}
+
+h2{
+  color: white;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.quotestext{
+  color: white;
+  font-family: "Raleway";
+  font-size: 30px;
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1%;
+  height: auto;
+}
+
+.text{
+  font-family: "Raleway";
+  font-size: 30px;
+  font-style: bold;
+}
+
+.person{
+  font-family: "Raleway";
+  font-size: 20px;
+  font-style: italic;
+}
+
+.btn-primary.outline {
+	border: 2px solid #96a9e8;
+	color: #afc6ea;
+}
+
+.btn.outline {
+	background: none;
+	padding: 12px 22px;
+}
